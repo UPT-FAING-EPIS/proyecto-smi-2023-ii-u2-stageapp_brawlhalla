@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StageApp.Login"
+             Title="Login">
+    <VerticalStackLayout>
+        <VerticalStackLayout Margin="15" Padding="30, 60, 30, 30">
+            <Image Source="Resources/Images/completologo.png"/>
+            <Label Text="Please log in" FontSize="30" TextColor="White"/>
+            <Label Text="Username" TextColor="White" />
+            <Entry />
+            <Label Text="Password" TextColor="White" />
+            <Entry IsPassword="True" />
+            <Button Text="Log in" BackgroundColor="#B3578D" />
+        </VerticalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>
