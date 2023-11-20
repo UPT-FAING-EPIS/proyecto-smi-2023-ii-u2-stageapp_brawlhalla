@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StageApp
+build_property.ProjectDir = C:\Users\100pr\source\repos\StageApp\StageApp\
+
+[C:/Users/100pr/source/repos/StageApp/StageApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StageApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/100pr/source/repos/StageApp/StageApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StageApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/100pr/source/repos/StageApp/StageApp/Equipos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StageApp.Equipos.xaml
+build_metadata.AdditionalFiles.TargetPath = Equipos.xaml
+build_metadata.AdditionalFiles.RelativePath = Equipos.xaml
+
+[C:/Users/100pr/source/repos/StageApp/StageApp/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StageApp.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Login.xaml
+
+[C:/Users/100pr/source/repos/StageApp/StageApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StageApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/100pr/source/repos/StageApp/StageApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StageApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/100pr/source/repos/StageApp/StageApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StageApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/100pr/source/repos/StageApp/StageApp/Torneos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StageApp.Torneos.xaml
+build_metadata.AdditionalFiles.TargetPath = Torneos.xaml
+build_metadata.AdditionalFiles.RelativePath = Torneos.xaml
+
+[C:/Users/100pr/source/repos/StageApp/StageApp/Usuario.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StageApp.Usuario.xaml
+build_metadata.AdditionalFiles.TargetPath = Usuario.xaml
+build_metadata.AdditionalFiles.RelativePath = Usuario.xaml
+
+[C:/Users/100pr/source/repos/StageApp/StageApp/Views/ListadoOrganizadores.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StageApp.Views.ListadoOrganizadores.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ListadoOrganizadores.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ListadoOrganizadores.xaml
+
+[C:/Users/100pr/source/repos/StageApp/StageApp/Views/Organizador.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StageApp.Views.Organizador.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Organizador.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Organizador.xaml
+
+[C:/Users/100pr/source/repos/StageApp/StageApp/Views/Templates/ItemsAlumnos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StageApp.Views.Templates.ItemsAlumnos.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Templates\ItemsAlumnos.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Templates\ItemsAlumnos.xaml
