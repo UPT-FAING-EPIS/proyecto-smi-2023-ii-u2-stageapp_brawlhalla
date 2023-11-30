@@ -15,11 +15,3 @@ public class OrganizadoresModels : BaseModels
     
 }
 
-public abstract class BaseModels
-
-{
-
-    [PrimaryKey, AutoIncrement]
-    public int Id { get; set; }
-
-}

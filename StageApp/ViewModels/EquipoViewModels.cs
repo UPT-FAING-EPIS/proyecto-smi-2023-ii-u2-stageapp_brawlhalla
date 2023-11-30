@@ -3,7 +3,9 @@
 using MaxLengthAttribute = System.ComponentModel.DataAnnotations.MaxLengthAttribute;
 
 namespace StageApp.ViewModels;
-
+[QueryProperty("TorneoID", "TorneoID")]
+[QueryProperty("Nro_Miembros", "Nro_Miembros")]
+[QueryProperty("Descripcion", "Descripcion")]
 [QueryProperty("Nombre","Nombre")]
 [QueryProperty("Id", "Id")]
 public partial class EquipoViewModels : ObservableValidator

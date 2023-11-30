@@ -1,5 +1,6 @@
 ﻿namespace StageApp;
-
+using Firebase.Database;
+using Firebase.Database.Query;
 public static class MauiProgram
 {
 	public static MauiApp CreateMauiApp()
@@ -15,4 +16,5 @@ public static class MauiProgram
 
 		return builder.Build();
 	}
+	
 }

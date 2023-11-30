@@ -1,5 +1,6 @@
 ﻿namespace StageApp.Models;
 
+
 [Table("Equipos")]
 public class EquiposModels : BaseModels
 {
@@ -11,5 +12,3 @@ public class EquiposModels : BaseModels
     $"Id:{Id} - {Nombre}";
     
 }
-
-
