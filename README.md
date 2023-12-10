@@ -17,7 +17,7 @@ Integrantes:
 ## Autores
 | Nombres                       | Cargo             |
 | ----------------------------- | ----------------- |
-| Rene Manuel Poma Mnachego     | Analista de datos |
+| Rene Manuel Poma Mnachego     | Programador |
 | Daniel Roldan Lupaca Mamani   | Documentador      |
 | Victor Eleazan Aguilar Pinto  | Programador       |
 | Jhon Romario Poma Chura       | Programador       |
